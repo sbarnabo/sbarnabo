@@ -42,13 +42,3 @@ My work is guided by a few key philosophies:
 *   **Digital Sovereignty:** I believe in owning and controlling the entire development pipeline. By self-hosting services like **Gitea**, **MinIO**, and **Drone CI**, I eliminate reliance on external providers, enhancing security and resilience.
 *   **Security by Design:** Security isn't an afterthought. I integrate tools like **Ansible Vault** for secrets management, `pre-commit` hooks for code quality, and network hardening (UFW, Fail2ban) directly into the development process.
 *   **Pragmatic Automation:** I choose the right tool for the job. For Project Bastion, I selected **Docker Compose** for its simplicity and resource efficiency on ARM hardware, intentionally deferring the operational complexity of Kubernetes until it is truly needed.
-
-
-
----
-
-<div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarnabo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>

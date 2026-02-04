@@ -43,32 +43,12 @@ My work is guided by a few key philosophies:
 *   **Security by Design:** Security isn't an afterthought. I integrate tools like **Ansible Vault** for secrets management, `pre-commit` hooks for code quality, and network hardening (UFW, Fail2ban) directly into the development process.
 *   **Pragmatic Automation:** I choose the right tool for the job. For Project Bastion, I selected **Docker Compose** for its simplicity and resource efficiency on ARM hardware, intentionally deferring the operational complexity of Kubernetes until it is truly needed.
 
----
 
-## 💻 My Toolbox
-
-### IaC & Automation
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Packer](https://img.shields.io/badge/Packer-7B42BC?style=for-the-badge&logo=packer&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### Containerization & CI/CD
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Drone CI](https://img.shields.io/badge/Drone_CI-212121?style=for-the-badge&logo=drone&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=white)
-
-### Platforms & Services
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C92A42?style=for-the-badge&logo=minio&logoColor=white)
 
 ---
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sbarnabo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
